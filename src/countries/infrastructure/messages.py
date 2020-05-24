@@ -1,7 +1,6 @@
 HTTP_ERROR_MSG = "An HTTP error occurred"
 CONNECTION_ERROR_MSG = "A Connection error occurred"
-URL_REQUIRED_MSG = "A valid URL is required to make a request" 
+URL_REQUIRED_MSG = "A valid URL is required to make a request"
 TOO_MANY_REDIRECTS_MSG = "Too many redirects"
-CONNECT_TIMEOUT_MSG = "The request timed out while trying to connect to the remote server"
 READ_TIMEOUT_MSG = "The server did not send any data in the allotted amount of time"
 REQUEST_EXCEPTION_MSG = "Other error occurred"
